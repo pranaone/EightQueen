@@ -1,0 +1,11 @@
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\bin\Debug\Queen.png
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChessBoard.resources
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\EightQueenProblem.csproj.GenerateResource.cache
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\EightQueenProblem.csproj.CoreCompileInputs.cache
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Pranavan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
